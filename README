@@ -4,5 +4,7 @@ multi_interproscan.py provides a wrapper for wsinterproscan.py by running interp
 
 Run the script as multi_interpro.py -i example.fasta -s wsinterproscan.py
 
+Output: multiple interpro result files
+
 Andrew Warren
 aswarren@gmail.com 
