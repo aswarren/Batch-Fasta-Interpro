@@ -1,0 +1,8 @@
+Requires: Biopython
+
+multi_interproscan.py provides a wrapper for wsinterproscan.py by running interproscan on an entire fasta file. It keeps the total number of concurrent interproscan sessions at the maximum number allowed at EBI (which was 25 when I wrote this).
+
+Run the script as multi_interpro.py -i example.fasta -s wsinterproscan.py
+
+Andrew Warren
+aswarren@gmail.com 
